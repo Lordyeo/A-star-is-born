@@ -1,4 +1,32 @@
-##  À propos de moi
+# A Star is Born – Portfolio de Projets Data 
+Je me présente Dognimain Christ Yeo, étudiant en IA et Data, passionné par la mise en place des modèles de ML ou d'IA.
+Bienvenue sur mon dépôt de projets Data Science réalisés dans le cadre de ma formation et de ma pratique personnelle.  
+Chaque notebook présente un cas concret basé sur des jeux de données issus de Kaggle, avec des approches simples, claires et applicables en entreprise.
 
-Bienvenue sur mon dépôt de projets Data réalisés à partir de jeux de données issus de [Kaggle](https://www.kaggle.com/). Ces notebooks mettent en pratique différentes techniques de Machine Learning dans des cas concrets.  
-Je m'appelle **YEO Dognimain Christ**, étudiant en Intelligence Artificielle et Data Science.
+
+## Projets
+
+### 1.  Titanic – Classification
+Prédiction de la survie des passagers du Titanic avec des modèles de machine learning supervisé.
+
+### 2.  Diabète – Régression logistique
+Prédire la probabilité de présence de diabète selon les caractéristiques médicales des patients.
+
+### 3.  Salaires – Régression linéaire
+Estimation du salaire en fonction des années d’expérience à l’aide d’une régression linéaire simple.
+
+### 4.  Prédiction du prix des vols – Régression
+Estimation du prix des billets d’avion selon plusieurs variables comme la durée, la compagnie ou les escales.
+
+### 5.  Détection de fraude – Classification
+Détection de transactions bancaires frauduleuses à l’aide d’algorithmes de classification.
+
+
+
+##  Technologies utilisées
+
+- Python 3
+- pandas, numpy
+- matplotlib, seaborn
+- scikit-learn
+
