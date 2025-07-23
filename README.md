@@ -6,26 +6,26 @@ Chaque notebook présente un cas concret basé sur des jeux de données issus de
 
 ## Projets
 
-### 1.  Titanic – Classification
+### 1.  Titanic – Classification ( Mon tout premier projet personnel )
 Prédiction de la survie des passagers du Titanic avec des modèles de machine learning supervisé.
 
-### 2.  Diabète – Régression logistique
+### 2.  Diabète – Régression logistique ( Projet personnel )
 Prédire la probabilité de présence de diabète selon les caractéristiques médicales des patients.
 
-### 3.  Salaires – Régression linéaire
+### 3.  Salaires – Régression linéaire ( Projet personnel )
 Estimation du salaire en fonction des années d’expérience à l’aide d’une régression linéaire simple.
 
-### 4.  Prédiction du prix des vols – Régression
+### 4.  Prédiction du prix des vols – Régression (Projet Académique suivi d'une présentation, Group de 4  )
 Estimation du prix des billets d’avion selon plusieurs variables comme la durée, la compagnie ou les escales.
 
-### 5.  Détection de fraude – Classification
+### 5.  Détection de fraude – Classification ( Projet personnel, que j'aime le plus car mon premier stage éffectué traite le même sujet )
 Détection de transactions bancaires frauduleuses à l’aide d’algorithmes de classification.
 
 
 
 ##  Technologies utilisées
 
-- Python 3
+- Python 
 - pandas, numpy
 - matplotlib, seaborn
 - scikit-learn
